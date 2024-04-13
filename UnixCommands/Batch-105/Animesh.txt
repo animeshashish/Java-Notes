@@ -1,0 +1,2 @@
+Hello! My name is Animesh Hemrom. This is my first txt file in Git Bash.
+I am very excited to learn git and Java.
